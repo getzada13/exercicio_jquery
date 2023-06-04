@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    padding: 16px 0;
+    justify-content: center;
+}
+
+
+body{
+    background-color: aqua;
+}
+
+form {
+    padding: 24px 0;
+    text-align: center;
+}
+
+header h1 {
+    text-align: center;
+}
+
+input, button {
+    padding: 8px;
+}
+
+button {
+    background-color: #009432;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+}
+
+.completo {
+    text-decoration: line-through;
+}
+
+#task-list li {
+    text-align: center;
+}
